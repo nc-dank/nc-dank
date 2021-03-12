@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nc-dank
+- 👀 I’m interested in new emerging technologies 
+- 🌱 I’m currently learning Oracle SQL Database Management Certificate and SAFe
+- 📫 Develop with me by writing self-documented code
